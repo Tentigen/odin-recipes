@@ -1,6 +1,3 @@
 # odin-recipes
-I will update this at the end.
-General idea: Recipes for Disaster
-Provided recipes will lead to disastrous results.
-Warning on index and each recipe about disastrous results.
-Concluding remarks to be given with suggestions on how to avoid disastrous results, should one actually wish to have a delightful experience.
+This project demonstrates basic HTML that I have learned through the Odin Project. In it, I attempt to use lists and links, appropriate headings, and bold and italicized text. I also try to insert pictures of an appropriate size.
+In addition to demonstrating my knowledge of HTML so far, I also provide some recipes for others to prepare. While the recipes are intended to amuse by leading to unfortunate endings, they do also seek to teach good cooking practices by informing of proper techniques at the end of the recipes. Warnings have been provided at the beginning of the recipe in the event that someone does not read through the recipe beforehand or fails to take the title,"Recipes for Disaster," seriously.
